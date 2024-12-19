@@ -1,0 +1,4 @@
+git clone https://github.com/pheonix26-hub/advertisement.git
+git add .
+git commit -m "Add website files"
+git push origin main
